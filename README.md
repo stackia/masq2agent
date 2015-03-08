@@ -1,5 +1,7 @@
 # masq2agent
 
+http://stackia.github.io/masq2agent/
+
 A Dnsmasq to DNSAgent rules converter.
 
 Currently the following type of Dnsmasq rules are supported:
