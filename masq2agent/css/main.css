@@ -1,0 +1,23 @@
+header .btn-repo .fa {
+    vertical-align: middle;
+}
+
+header .btn-repo span {
+    vertical-align: middle;
+    margin-left: 6px;
+}
+
+main .input-section {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+    main .input-section textarea {
+        resize: vertical;
+        font-family: monospace;
+    }
+
+        main .input-section textarea[readonly] {
+            cursor: auto;
+            background-color: white;
+        }
